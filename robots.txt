@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://livefaceswapai.github.io/sitemap.xml

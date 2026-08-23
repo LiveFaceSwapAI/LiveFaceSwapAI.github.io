@@ -1,0 +1,15 @@
+# LiveFaceSwap AI GitHub Developer Hub
+
+> Official developer, repository, support, security, and feedback links for LiveFaceSwap AI.
+
+## Official pages
+
+- [LiveFaceSwap AI GitHub Developer Hub](https://livefaceswapai.github.io)
+- [LiveFaceSwap AI official website](https://livefaceswap.ai)
+- [LiveFaceSwap Desktop workflow](https://livefaceswap.ai/desktop)
+
+## Repository and support
+
+- [Canonical LiveFaceSwap AI GitHub repository](https://github.com/LiveFaceSwapAI/livefaceswap)
+- [Public issue tracker](https://github.com/LiveFaceSwapAI/livefaceswap/issues)
+- [Security policy](https://github.com/LiveFaceSwapAI/livefaceswap/blob/main/SECURITY.md)
