@@ -7,6 +7,9 @@
 - [LiveFaceSwap AI GitHub Developer Hub](https://livefaceswapai.github.io)
 - [LiveFaceSwap AI official website](https://livefaceswap.ai)
 - [LiveFaceSwap Desktop workflow](https://livefaceswap.ai/desktop)
+- [Online live face swap guide](https://livefaceswap.ai/guides/live-face-swap-online)
+- [Windows 11 Desktop setup guide](https://livefaceswap.ai/guides/live-face-swap-windows-setup)
+- [Browser or Desktop real-time workflow guide](https://livefaceswap.ai/guides/how-to-swap-faces-in-real-time)
 
 ## Repository and support
 
