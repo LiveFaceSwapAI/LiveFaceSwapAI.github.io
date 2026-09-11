@@ -11,6 +11,7 @@ This repository hosts the official GitHub Pages hub for LiveFaceSwap AI public m
 - Project homepage and documentation entry: [livefaceswap.ai](https://livefaceswap.ai)
 - Desktop workflow for cross-app output: [LiveFaceSwap Desktop (Windows 11)](https://livefaceswap.ai/desktop)
 - Canonical public repository and issue tracker: [LiveFaceSwap AI on GitHub](https://github.com/LiveFaceSwapAI/livefaceswap)
+- Verified browser-extension source mirror: [LiveFaceSwap Browser Extension on SourceForge](https://sourceforge.net/projects/livefaceswap-browser-extension/)
 
 ## Topics covered
 

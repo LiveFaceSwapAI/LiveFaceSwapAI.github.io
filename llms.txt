@@ -14,5 +14,6 @@
 ## Repository and support
 
 - [Canonical LiveFaceSwap AI GitHub repository](https://github.com/LiveFaceSwapAI/livefaceswap)
+- [Verified LiveFaceSwap Browser Extension source on SourceForge](https://sourceforge.net/projects/livefaceswap-browser-extension/)
 - [Public issue tracker](https://github.com/LiveFaceSwapAI/livefaceswap/issues)
 - [Security policy](https://github.com/LiveFaceSwapAI/livefaceswap/blob/main/SECURITY.md)
